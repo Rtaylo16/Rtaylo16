@@ -13,7 +13,7 @@
 [<img align="left" alt="linkedin" src="images/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png"
 />][linkedin]
 
-### Technical skills and Languages
+## Technical skills and Languages
 
 [<img align="left" alt="linkedin" src="images/iconfinder_social_media_social_media_logo_git_2993773.png"/>]
 [<img align="left" alt="linkedin" src="images/iconfinder_React.js_logo_1174949.png"/>]
