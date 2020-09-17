@@ -25,7 +25,7 @@
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_google_firebase_1175544.png"/>
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_css_308436.png"/>
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png"/>
-<img  align="left" alt="linkedin" width= "26" src="images/iconfinder_Bootstrap_4923030.png"/>
+<img  align="left" alt="linkedin" width= "26" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-256.png"/>
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_angular_1145600.png"/>
 </br>
 
