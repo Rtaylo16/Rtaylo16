@@ -1,10 +1,10 @@
 ### Hello my name is Ryan :milky_way:
 
 ## I'm a Full Stack developer, Graphic Designer.
-- I am a recent grad of a coding bootcamp at the University of North Carolina at Charlotte.
-- I'm currently learning swift. 
-- I have a passion for front end design. 
-- 2020 goals: Create more applications and Contribute to a nonprofit project.
+-  :mortar_board: I am a recent grad of a coding bootcamp at the University of North Carolina at Charlotte.
+- :iphone: I'm currently learning swift. 
+- :art: I have a passion for front end design. 
+- :key: 2020 goals: Create more applications and Contribute to a nonprofit project.
 
 ### Connect with me
 
@@ -12,6 +12,27 @@
 />][portfolio] 
 [<img align="left" alt="linkedin" src="images/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png"
 />][linkedin]
+
+### Technical skills and Languages
+
+[<img align="left" alt="linkedin" src="images/iconfinder_social_media_social_media_logo_git_2993773.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_React.js_logo_1174949.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_MySQL_1012821.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_mongodb_1012822.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_jquery_308442.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_html_308440.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_google_firebase_1175544.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_css_308436.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_Bootstrap_4923030.png"/>]
+[<img align="left" alt="linkedin" src="images/iconfinder_angular_1145600.png"/>]
+
+
+
+
+
+
+
 
 
 
