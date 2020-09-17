@@ -8,9 +8,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="linkedin" src="images/iconfinder_Folder_1891015.png"
+[<img align="left" width= "40" alt="linkedin" src="images/iconfinder_Folder_1891015.png"
 />][portfolio] 
-[<img align="left" alt="linkedin" src="images/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png"
+[<img align="left" width= "40" alt="linkedin" src="images/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png"
 />][linkedin]
 
 </br>
