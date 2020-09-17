@@ -8,9 +8,10 @@
 
 ### Connect with me
 
-:computer: [portfolio] 
+[<img align="left" alt="linkedin" src="images/iconfinder_Folder_1891015.png"
+/>][portfolio] 
 [<img align="left" alt="linkedin" src="images/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png"
-/>]
+/>][linkedin]
 
 
 
@@ -20,5 +21,5 @@
 
 <br/>
 
-[porfolio]: https://5f5ad51099477066ee704929--ryan-c-taylor-portfolio.netlify.app/
+[portfolio]: https://5f5ad51099477066ee704929--ryan-c-taylor-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ryan-c-taylor211/
