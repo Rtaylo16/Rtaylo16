@@ -27,6 +27,7 @@
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png"/>
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_Bootstrap_4923030.png"/>
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_angular_1145600.png"/>
+</br>
 
 ## Stats
 [![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=Rtaylo16)](https://github.com/anuraghazra/github-readme-stats)
