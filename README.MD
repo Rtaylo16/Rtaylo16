@@ -29,7 +29,7 @@
 <img  align="left" alt="linkedin" width= "26" src="images/iconfinder_angular_1145600.png"/>
 
 
-
+[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=Rtaylo16)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
